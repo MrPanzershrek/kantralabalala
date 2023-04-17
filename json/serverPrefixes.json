@@ -1,0 +1,20 @@
+{
+  "servers": [
+    { 
+      "name": "Repl.it #1",
+      "value": ">"
+    },
+    { 
+      "name": "Repl.it #2",
+      "value": "."
+    },
+    { 
+      "name": "Repl.it #3",
+      "value": "!!"
+    },
+    { 
+      "name": "Developer server",
+      "value": "$"
+    }
+  ]
+}
